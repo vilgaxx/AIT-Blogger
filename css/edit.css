@@ -1,0 +1,120 @@
+.logo {
+	color: #fff !important;
+	text-transform: uppercase;
+	font-size: 40px !important;
+}
+
+body {
+	background-color: #fff !important;
+}
+
+.CommentBlock {
+	background-color: rgb(223, 223, 223);
+}
+
+.navbar-back {
+	background-image: linear-gradient(to right, #ffb900, #ff7730);
+	padding: 0 !important;
+}
+
+.navbar-dash-back {
+	background-image: linear-gradient(to right, #2998ff, #5643fa);
+	padding: 0 !important;
+}
+
+.navbar-nav li {
+	padding: 0 10px;
+}
+
+.navbar-nav li a {
+	color: #fff !important;
+	font-weight: 600;
+}
+
+.fa-bars {
+	color: #fff;
+	font-size: 30px !important;
+}
+
+.navbar-toggler {
+	outline: none !important;
+	border: none !important;
+}
+
+
+#banner {
+	background-image: linear-gradient(to right, #ffb900, #ff7730);
+	padding-top: 5%;
+	padding-bottom: 20%;
+	color: #fff;
+	clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+
+}
+
+#footer {
+	background-image: linear-gradient(to right, #ffb900, #ff7730);
+	padding-top: 100px;
+	color: #fff;
+	clip-path: polygon(0 65%, 100% 0, 100% 100%, 0 100%);
+}
+
+.promo-title {
+	font-size: 60px !important;
+	text-transform: uppercase;
+	margin-top: 100px;
+	letter-spacing: 6px;
+	font-weight: 300;
+}
+
+.promo-text {
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.btn-color {
+	background-color: #ffb900;
+	transition: all .2s;
+}
+.btn-color:hover {
+	background-color: #ff7730;
+}
+
+.card-margin {
+	margin-bottom: 60px !important;
+}
+
+.mrtop {
+	margin-top: 60px !important;
+}
+
+.text-weight {
+	font-weight: 400 !important;
+}
+
+.title-size {
+	display: inline-block;
+	background-image: linear-gradient(to right, #ffb900, #ff7730);
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.small a {
+	color: #ffb900 !important;
+} 
+
+.bg-color {
+	background-image: linear-gradient(to right, #ffb900, #ff7730);
+}
+
+/* admin background color */
+
+.dash-bg-color {
+	background-image: linear-gradient(to right, #2998ff, #5643fa);
+}
+
+.ro-circle {
+	border-radius: 50px !important;
+}
+
